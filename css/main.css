@@ -1,0 +1,58 @@
+nav {
+  border-radius: 0 !important;
+}
+
+.pull-right {
+  float: right;
+  margin-right: 1%;
+}
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 8px;
+}
+
+.page-title {
+  text-align: center;
+}
+
+.posts-ul {
+  list-style-type: none;
+  font-size: 1.2em
+}
+
+.main-container {
+  color: #fff;
+  margin-top: 10%;
+  text-align: center;
+}
+
+@media (min-width: 320px) {
+  .jumbotron {
+    margin-bottom: 1em;
+    border-radius: 0px !important;
+  }
+}
+
+@media (min-width: 768px) {
+  .jumbotron {
+    margin: 6% 10%;
+    border-radius: 8px !important;
+  }
+}
+
+@media (min-width: 1280px) {
+  .jumbotron {
+    margin: 4% 12%;
+    border-radius: 8px !important;
+  }
+}
+
+@media (min-width: 1440px) {
+  .jumbotron {
+    margin: 4% 12%;
+    border-radius: 8px !important;
+  }
+}
